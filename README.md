@@ -1,4 +1,6 @@
-### Hi there 👋
+### Bonjour à tous,
+En juin 2021, j'ai donné un nouveau cap à mon avenir professionnel. J'ai quitté l'aéronautique pour me diriger vers le développement web. <br> Pourquoi ? Eh bien, parce que j'y retrouve la rigueur que je cultivais déjà, et j'y ajoute la créativité. 
+Développer, c'est découvrir constamment de nouveaux outils et de nouveaux langages. Et ça me va très bien !
 
 <!--
 **sebastien-violante/sebastien-violante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
