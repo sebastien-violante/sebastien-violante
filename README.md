@@ -1,6 +1,6 @@
-### Bonjour à tous,
-En juin 2021, j'ai donné un nouveau cap à mon avenir professionnel. J'ai quitté l'aéronautique pour me diriger vers le développement web. <br> Pourquoi ? Eh bien, parce que j'y retrouve la rigueur que je cultivais déjà, et j'y ajoute la créativité. 
-Développer, c'est découvrir constamment de nouveaux outils et de nouveaux langages. Et ça me va très bien !
+### Bonjour !
+En juin 2021, j'ai quitté l'aéronautique pour me diriger vers le développement web. <br> Pourquoi ? Pour me donner un nouveau souffle professionnel. Et franchement, je ne regrette absolument rien...
+J'ai obtenu le titre DWWM l'année dernière. Désormais, je souhaite aller plus loin et obtenir le titre Concepteur développeur d'applications par 🅰🅻🆃🅴🆁🅽🅰🅽🅲🅴. <br>Alors si vous cherchez un dev en PHP ou JAVA qui soit motivé, rigoureux et persévérant, il se pourrait bien qu'on se rencontre très prochainement !
 
 <!--
 **sebastien-violante/sebastien-violante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
