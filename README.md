@@ -1,6 +1,7 @@
 ### Bonjour !
 En juin 2021, j'ai quitté l'aéronautique pour me diriger vers le développement web. <br> Pourquoi ? Pour me donner un nouveau souffle professionnel. Et franchement, je ne regrette absolument rien...
-J'ai obtenu le titre DWWM l'année dernière. Désormais, je souhaite monter en compétences au sein d'une entreprise, autour de projets motivants ! <br>Et pourquoi pas aller plus loin et obtenir le titre Concepteur développeur d'applications par 🅰🅻🆃🅴🆁🅽🅰🅽🅲🅴. <br>Alors si vous cherchez un dev en ⓅⒽⓅ qui soit motivé, rigoureux et persévérant, il se pourrait bien qu'on se rencontre très prochainement !
+J'ai obtenu le titre DWWM en 2022. Désormais, je souhaite monter en compétences au profit de projets motivants ! <br>
+Je viens d'intégrer une équipe projet au sein de l'Université de Tours. Et là, c'est une descente au plus profond du code qui m'attend...
 
 <!--
 **sebastien-violante/sebastien-violante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
