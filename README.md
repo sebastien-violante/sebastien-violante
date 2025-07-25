@@ -1,7 +1,7 @@
 ### Bonjour !
-En juin 2021, j'ai quitté l'aéronautique pour me diriger vers le développement web. <br> Pourquoi ? Pour me donner un nouveau souffle professionnel. Et franchement, je ne regrette absolument rien...
-J'ai obtenu le titre DWWM en 2022. Désormais, je souhaite monter en compétences au profit de projets motivants ! <br>
-Je viens d'intégrer une équipe projet au sein de l'Université de Tours. Et là, c'est une descente au plus profond du code qui m'attend...
+🛩️ En juin 2021, j'ai quitté l'aéronautique pour me diriger vers le développement web. <br> Pourquoi ? Pour me donner un nouveau souffle professionnel. Et franchement, je ne regrette absolument rien...
+💻 J'ai obtenu le titre DWWM en 2022. Désormais, je souhaite monter en compétences au profit de projets motivants ! <br>
+👨‍🎓 Depuis fin 2023, je travaille sur le projet Escale à l'Université de Tours. Du "from scratch" PHP/JS au quotidien. En parallèle, je monte en compétences sur Symfony avec des projets personnels.
 
 <!--
 **sebastien-violante/sebastien-violante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
